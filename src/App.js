@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1> Vishnu is a Baboon </h1>
+        <h1> CS 411 - Double Photon In Slit Final Project </h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
